@@ -20100,7 +20100,18 @@
       "twitter": "https://twitter.com/shibalana_inu"
     }
    }
-   ,
+   ,{
+      "chainId": 101,
+      "address": "DGeHh4eoxGau3iH7PfdTJdRhZu4FWNgDFF1Czd3tNemT",
+      "symbol": "UMURPHY",
+      "name": "Uncle Murphy Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/DogeDevelop/MurphyCoin/main/murphy.png",
+      "tags": ["meme-token"],
+      "extensions": {
+        "website": "https://unclemurphycoin.org/"
+      }
+    },
    {
     "chainId": 101,
     "address": "FmQN1sQDeD9DF7aQvmJA9zZ8hicJYxUzzCDSnV8tfUtY",
